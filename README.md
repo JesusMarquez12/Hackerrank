@@ -1,0 +1,1 @@
+Repository used to store solution to Hackerrank's exercises.

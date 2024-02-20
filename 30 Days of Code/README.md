@@ -1,0 +1,1 @@
+In the 30 Days of Code challenge, there some start/helping code for each problem, so, to differentiate that code from the resolution code, these line will be marked with an asterisk(*) in a comment to the rightmost side of the code.

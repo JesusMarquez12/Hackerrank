@@ -2,12 +2,12 @@
 
 # https://www.hackerrank.com/challenges/30-conditional-statements
 
-require 'json'        #*
-require 'stringio'    #*
+require 'json'      #*
+require 'stringio'  #*
 
 
 
-N = gets.strip.to_i   #*
+N = gets.strip.to_i #*
 
 if N%2 == 1
   puts "Weird" 
